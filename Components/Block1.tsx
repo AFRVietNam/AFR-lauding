@@ -14,7 +14,7 @@ export function Block1() {
           <Row className={css.RowFix}>
             <Col className={css.colCustom} xs={24} md={18} lg={14}>
               <div className={css.contentRight}>
-                <div className={css.title}>LOGISFORCE SYSTEM</div>
+                <div className={css.title}>LOGISFORCE SYSTEM ??</div>
                 <h1 className={css.title2}>
                   Connect departments quickly and easily
                 </h1>
