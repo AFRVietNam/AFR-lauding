@@ -2,7 +2,7 @@ import css from "./block1.module.scss";
 import { Col, Row } from "antd";
 import Image from "next/image";
 import { B1L, banner } from "../public/staticImage/index";
-export fuion scrollToDiv() {
+export function scrollToDiv() {
   var targetDiv = document.getElementById("targetDiv");
   targetDiv?.scrollIntoView({ behavior: "smooth" });
 }
