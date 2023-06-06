@@ -2,7 +2,8 @@ import css from "./block1.module.scss";
 import { Col, Row } from "antd";
 import Image from "next/image";
 import { B1L, banner } from "../public/staticImage/index";
-export function scrollToDiv() {
+export fu
+ion scrollToDiv() {
   var targetDiv = document.getElementById("targetDiv");
   targetDiv?.scrollIntoView({ behavior: "smooth" });
 }
@@ -14,7 +15,7 @@ export function Block1() {
           <Row className={css.RowFix}>
             <Col className={css.colCustom} xs={24} md={18} lg={14}>
               <div className={css.contentRight}>
-                <div className={css.title}>LOGISFORCE SYSTEM NCT</div>
+                <div className={css.title}>LOGISFORCE SYSTEM </div>
                 <h1 className={css.title2}>
                   Connect departments quickly and easily
                 </h1>
@@ -22,7 +23,7 @@ export function Block1() {
                   Built on the Salesforce platform,
                   <br />
                   LogisForce with diverse modules and integrated multiple
-                  platforms helps enhance. business management efficiency.{" "}
+                  platforms helps enhance business management efficiency.{" "}
                   <br />
                 </div>
                 <div className={css.grBtn}>
@@ -33,7 +34,7 @@ export function Block1() {
                     Sign up for a consultation
                   </a>
                   <a className={css.btnBuy} href="#targetDiv">
-                    Buy Now
+                    Buy Now!
                   </a>
                 </div>
               </div>
