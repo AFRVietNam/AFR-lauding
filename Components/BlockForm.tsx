@@ -175,7 +175,7 @@ export function BlockForm() {
                   Register to get free trial program
                 </h1>
                 <div className={css.decription}>
-                  ogisforce - Saving cost and enhancing your business
+                  Logisforce - Saving cost and enhancing your business
                   performance
                 </div>
                 <Col xs={0} lg={24} sm={0}>
