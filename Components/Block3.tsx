@@ -54,8 +54,7 @@ export function Block3() {
                   <div className={css.itemContent}>
                     Using the available tools, you can quickly personalize your
                     system. For example, changing processes, adding modules for
-                    <br />
-                    management, or building new app... all of them will be done
+                    management, or building new app,... All of them will be done
                     with just click in LogisForce.
                   </div>
                   <div className={css.SlBtn}>
