@@ -111,8 +111,6 @@ export function Block3() {
                   <div className={css.itemContent}>
                     Using a single platform and infrastructure has advantages
                     for business of all sizes. Customer data is safe and secure
-                    .
-                    <br />
                     because of the multi-tenant design of Salesforce
                     development. Customer no longer have to get involved.
                   </div>
@@ -170,8 +168,8 @@ export function Block3() {
                     third-party applications.
                     <br />
                     Fortunately, it&apos;s all made possible through an open API
-                    to connect with other platform like: Google cloud, dropbox,
-                    mailchimp....
+                    to connect with other platforms like: Google Cloud, Dropbox,
+                    Mailchimp,....
                   </div>
                   <div className={css.SlBtn}>
                     <a className="scroll" href="#targetDiv">
@@ -230,7 +228,7 @@ export function Block3() {
                     data.
                     <br />
                     You may use LogisForce tool to improve your firm by getting
-                    a clearer picture of Sales, Cus, Docs, Op, Accounting….
+                    a clearer picture of Sales, Cus, Docs, Op, Accounting,….
                   </div>
                   <div className={css.SlBtn}>
                     <a className="scroll" href="#targetDiv">
@@ -284,10 +282,9 @@ export function Block3() {
                   <div className={css.itemContent}>
                     LogisForce is built on Salesforce platform, is a SaaS that
                     provides a flexible and easy data security strategy. Using
-                    it&apos;s pre-installed .
-                    <br />
-                    security features, business owner and manager may select the
-                    individuals who can access company information.
+                    it&apos;s pre-installed security features, business owner 
+                    and manager may select the individuals 
+                    who can access company information.
                   </div>
                   <div className={css.SlBtn}>
                     <a className="scroll" href="#targetDiv">
