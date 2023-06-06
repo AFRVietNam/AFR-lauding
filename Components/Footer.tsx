@@ -33,7 +33,7 @@ export function Footer() {
               </Col>
               <Col xs={24} sm={24} md={12} lg={8} className={css.Colcust}>
                 <div className={[css.content, css.Rit].join(" ")}>
-                  <p>LContact us:</p>
+                  <p>Contact us:</p>
                   <div className={css.FlexItem}>
                     <Image src={f4} alt="lien he" className={css.IconF}></Image>
                     <p>+84-97-540-4208 (Mr. Tâm)</p>
