@@ -47,7 +47,7 @@ export function Block3() {
                       />
                     </div>
                     <h3 className={css.itemTitle}>
-                      <span className=" blue-text">Conveniently</span>
+                      <span className=" blue-text">Conveniently</span>{" "}
                       Customizable
                     </h3>
                   </div>
@@ -104,8 +104,8 @@ export function Block3() {
                       />
                     </div>
                     <h3 className={css.itemTitle}>
-                      <span className=" blue-text"> Universal</span>
-                      Platform
+                      <span className=" blue-text">Universal</span>
+                      {"  "} Platform
                     </h3>
                   </div>
                   <div className={css.itemContent}>
@@ -221,8 +221,8 @@ export function Block3() {
                       />
                     </div>
                     <h3 className={css.itemTitle}>
-                      <span className=" blue-text"> Excellent</span>
-                      Reporting Tools
+                      <span className=" blue-text"> Excellent</span> Reporting
+                      Tools
                     </h3>
                   </div>
                   <div className={css.itemContent}>
@@ -329,7 +329,7 @@ export function Block3() {
                       />
                     </div>
                     <h3 className={css.itemTitle}>
-                      <span className=" blue-text">Vast</span>Ecosystem
+                      <span className=" blue-text">Vast</span> Ecosystem
                     </h3>
                   </div>
                   <div className={css.itemContent}>
