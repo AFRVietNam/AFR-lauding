@@ -191,7 +191,7 @@ export function BlockForm() {
             </Col>
             <Col className={css.colCustom} xs={24} md={24} lg={12}>
               <div className={[css.contentLeft, cssF.conentItem].join(" ")}>
-                <form className={cssF.formClass} onSubmit={handleSubmit}>
+                <form className={cssF.formClass} onSubmit={handleSubmit} >
                   <h2 style={{ margin: 0 }}>
                     Register now{" "}
                     <span style={{ color: "#4262ef" }}>
