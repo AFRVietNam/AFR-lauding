@@ -47,8 +47,8 @@ export function Block3() {
                       />
                     </div>
                     <h3 className={css.itemTitle}>
-                      Conveniently{" "}
-                      <span className=" blue-text">Customizable</span>
+                      <span className=" blue-text">Conveniently</span>
+                      Customizable
                     </h3>
                   </div>
                   <div className={css.itemContent}>
@@ -104,8 +104,8 @@ export function Block3() {
                       />
                     </div>
                     <h3 className={css.itemTitle}>
-                      Universal
-                      <span className=" blue-text"> Platform</span>
+                      <span className=" blue-text"> Universal</span>
+                      Platform
                     </h3>
                   </div>
                   <div className={css.itemContent}>
@@ -159,8 +159,11 @@ export function Block3() {
                       />
                     </div>
                     <h3 className={css.itemTitle}>
-                      Suitable for a Wide
-                      <span className=" blue-text"> range of platform </span>
+                      Suitable for a
+                      <span className=" blue-text">
+                        {" "}
+                        Wide range of platform{" "}
+                      </span>
                     </h3>
                   </div>
                   <div className={css.itemContent}>
@@ -218,8 +221,8 @@ export function Block3() {
                       />
                     </div>
                     <h3 className={css.itemTitle}>
-                      Excellent
-                      <span className=" blue-text"> Reporting Tools</span>
+                      <span className=" blue-text"> Excellent</span>
+                      Reporting Tools
                     </h3>
                   </div>
                   <div className={css.itemContent}>
@@ -282,9 +285,9 @@ export function Block3() {
                   <div className={css.itemContent}>
                     LogisForce is built on Salesforce platform, is a SaaS that
                     provides a flexible and easy data security strategy. Using
-                    it&apos;s pre-installed security features, business owner 
-                    and manager may select the individuals 
-                    who can access company information.
+                    it&apos;s pre-installed security features, business owner
+                    and manager may select the individuals who can access
+                    company information.
                   </div>
                   <div className={css.SlBtn}>
                     <a className="scroll" href="#targetDiv">
@@ -326,16 +329,15 @@ export function Block3() {
                       />
                     </div>
                     <h3 className={css.itemTitle}>
-                      Vast {" "}
-                      <span className=" blue-text">Ecosystem</span>
+                      <span className=" blue-text">Vast</span>Ecosystem
                     </h3>
                   </div>
                   <div className={css.itemContent}>
                     A wide range of communities, including partner, developers,
                     and end-users, are all part of the salesforce eco-system.
                     <br />
-                    It&apos;s easy for your company if one day you want to expand
-                    your business, we are here to accompany.
+                    It&apos;s easy for your company if one day you want to
+                    expand your business, we are here to accompany.
                   </div>
                   <div className={css.SlBtn}>
                     <a className="scroll" href="#targetDiv">
